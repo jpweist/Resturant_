@@ -1,3 +1,9 @@
+html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
 jumbotron {
 
     background-image: url("http://circuits-assets.generalassemb.ly/prod/asset/5475/toms-restaurant.jpg")
